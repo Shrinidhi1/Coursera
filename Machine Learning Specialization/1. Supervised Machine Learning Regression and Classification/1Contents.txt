@@ -1,0 +1,18 @@
+Supervised Machine Learning: Regression and Classification 
+
+Week 1
+1. Linear Regression
+2. Cost Function
+3. Gradient Descent
+4. Learning Rate
+
+Week 2
+1. Multiple Linear Regression
+2. Feature Scaling
+3. Polynomial Regression
+
+Week 3
+1. Logistic Regression(Sigmoid function)
+2. Decision Boundary
+3. Overfitting
+4. Regularized logistic regression

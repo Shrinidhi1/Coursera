@@ -1,0 +1,20 @@
+Unsupervised Learning, Recommenders, Reinforcement Learning
+
+Week 1
+1. Clustering
+2. K-means
+3. Anomaly Detection
+
+Week 2
+1. Reccomenders
+2. Collaborative filtering
+3. Mean normalization
+4. Finding related items
+5. Content-based filtering
+
+Week 3
+1. Reinforcement Learning
+2. State-action value function
+3. Bellman Equations
+4. Random (stochastic) environment
+5. Continuous state spaces

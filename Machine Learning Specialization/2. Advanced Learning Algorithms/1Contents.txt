@@ -1,0 +1,27 @@
+Advanced Learning Algorithms
+
+Week 1
+Neural Network(Python)
+ 
+Week 2
+1. Neural Network(TensorFlow)
+2. Alternatives to the sigmoid activation
+3. ReLU activation
+4. Multiclass Classification
+5. Neural Network with Softmax 
+6. Advanced Optimization
+
+Week 3
+1. Model selection and training/cross validation/test sets
+2. Bias and variance
+3. Iterative loop of ML development
+4. Error analysis
+5. Transfer learning: using data from a different task
+6. Error metrics for skewed datasets
+
+Week 4
+1. Decision trees(Information Gain)
+2. One-hot encoding of categorical features
+3. Continuous valued features
+4. Regression Trees
+5. Tree Emsembles
